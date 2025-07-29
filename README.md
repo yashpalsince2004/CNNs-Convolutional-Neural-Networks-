@@ -32,8 +32,8 @@ def sample_function():
 Make sure Python is installed (>=3.7 recommended):
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/yashpalsince2004/CNNs-Convolutional-Neural-Networks-.git
+cd CNNs-Convolutional-Neural-Networks
 python test.py
 ```
 
@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Created with ❤️ by [Your Name or GitHub Handle]  
-🔗 [your-email@example.com] | 🌐 [your-website.com]
+Created with ❤️ by [YASH PAL]  
+🔗 [2004yashpal@gmail.com] | 
